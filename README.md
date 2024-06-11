@@ -8,7 +8,7 @@ A multifunctional based Android RAT without port forwarding
 
 # SCREENSHOTS
 
-<img src='2.jpg' style="height:600px;width:350px;" >
+<img src='2.jpg' style="height:800px;width:450px;" >
 
 <img src='3.jpg' style="height:400px;width:250px;" >
 
